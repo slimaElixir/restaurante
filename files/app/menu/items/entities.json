@@ -1,0 +1,18 @@
+[
+    {
+        "NAME":"Entidades Singulares",
+        "URL":"single_entities",
+        "POSITION":1,
+        "CHILDREN":[
+
+        ]
+    },
+    {
+        "NAME":"Entidades Colectivas",
+        "URL":"legal_entities",
+        "POSITION":2,
+        "CHILDREN":[
+
+        ]
+    }
+]
